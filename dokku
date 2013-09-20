@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -e
 export PLUGIN_PATH=${PLUGIN_PATH:="/var/lib/dokku/plugins"}
 case "$1" in
